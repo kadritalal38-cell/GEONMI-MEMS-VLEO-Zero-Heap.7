@@ -13,6 +13,7 @@
 This repository serves as the central integration nexus, master orchestrator kernel, and autonomous Software-In-The-Loop (SIL) safety framework for the **GEONMI-MEMS Very Low Earth Orbit (VLEO) satellite swarm architecture**. 
 
 Engineered specifically for next-generation civilian, scientific, and environmental space missions, this civil-grade software ecosystem shifts the paradigm from heavy, ground-dependent tracking to autonomous, decentralized swarm intelligence. To maintain absolute commercial confidentiality and safeguard strategic intellectual property, all foundational proprietary cores, sensitive telemetry algorithms, and deep-level hardware abstraction layers (HAL) are retained within separate secured private repositories.
+This system is strictly a commercial, civil-grade engineering project designed entirely for civilian, scientific, and environmental space applications, operating completely outside any military or defense scope.
 
 ## Key Architectural & Financial Pillars
 
