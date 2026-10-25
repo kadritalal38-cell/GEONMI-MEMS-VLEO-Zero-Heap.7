@@ -23,7 +23,7 @@ Operating natively within a freestanding `ISO C++17` environment, the core runti
 ### 🌐 Space-Edge Optical Mesh & OPEX Reduction
 The framework leverages cutting-edge Free-Space Optical Communications (FSOC) abstractions, replacing legacy, power-hungry Radio Frequency (RF) payloads with high-bandwidth inter-satellite laser links. By shifting intensive payload processing, multi-variable atmospheric data filtering, and real-time anomaly detection directly onto the spacecraft edge, the swarm processes data locally. Satellites downlink compressed operational metrics rather than massive raw data logs, **slashing ground station ingestion bandwidth, pipeline maintenance, and cloud hosting operations expenditure (OPEX) by up to 85%**.
 
-<img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/a4282e11-78d4-4de6-9bef-f94daa8b9be0" />
+<img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/7afffa45-ef9b-4e20-9131-34ac85634720" />
 ### 🔭 Multi-Physics GNC & Orbital Longevity
 To survive the aggressive, atmospheric drag-heavy environments of Very Low Earth Orbit (200km - 400km), the system integrates a high-order **4th-order Runge-Kutta (RK4) numerical integrator** coupled with high-fidelity **J2 perturbation modeling**. The kernel dynamically tracks chemical-structural degradation (such as atomic oxygen flux and thermal gradients) impacting specialized coatings. This orbital predictive physics intelligence actively maximizes fuel efficiency via autonomous Micro-Cathode Thruster (MCT) pulsing, directly mitigating premature orbital decay to extend asset mission lifespan and optimize capital expenditure (CAPEX) horizons.
 
