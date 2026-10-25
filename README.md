@@ -7,7 +7,7 @@
 [![Memory: Zero-Heap](https://shields.io)](https://wikipedia.org)
 [![Architecture: Space-Edge Optical Mesh](https://shields.io)](https://wikipedia.org)
 [![Domain: Commercial Civil VLEO Swarm](https://shields.io)](https://wikipedia.org)
-<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/3ca94917-3c99-4cb1-b859-b585ea477dd4" />
+<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/89af6775-a06a-470b-82c4-47aa5415ddb9" />
 
 ## Overview
 This repository serves as the central integration nexus, master orchestrator kernel, and autonomous Software-In-The-Loop (SIL) safety framework for the **GEONMI-MEMS Very Low Earth Orbit (VLEO) satellite swarm architecture**. 
